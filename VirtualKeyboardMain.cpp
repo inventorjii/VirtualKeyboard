@@ -4,6 +4,7 @@
 #include "Terminal.h"
 #include "VirtualKeyboard.h"
 #include "SessionManager.h"
+#include "FilePointer.h"
 using namespace std;
 //Execution starts from here
 int main (void ) {
